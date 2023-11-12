@@ -3,10 +3,12 @@ body {
   color: #a292d8;
   font-family: Arial, sans-serif;
   }
+
 a {
   color: #98ff98;
   text-decoration: underline;
   }
+
 details {
   border: 1px solid #c795ed;
   border-radius: 1px;
@@ -15,6 +17,13 @@ details {
 
 summary {
   color: #98ff98;
-  margin: -0.5em -0.5em 0;
+}
+
+details[open] {
   padding: 0.5em;
+}
+
+details[open] summary {
+  border-bottom: 1px solid #c795ed;
+  margin-bottom: 0.5em;
 }
