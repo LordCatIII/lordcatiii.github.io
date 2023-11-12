@@ -7,3 +7,14 @@ a {
   color: #98ff98;
   text-decoration: underline;
   }
+details {
+  border: 1px solid #c795ed;
+  border-radius: 1px;
+  padding: 0.5em 0.5em 0;
+}
+
+summary {
+  color: #98ff98;
+  margin: -0.5em -0.5em 0;
+  padding: 0.5em;
+}
