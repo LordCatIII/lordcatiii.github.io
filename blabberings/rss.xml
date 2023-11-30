@@ -3,6 +3,10 @@
   <channel>
     <title>blabberings</title>
     <description>A blog like thing where I put random thoughts and things.</description>
+  <item>
+  <title>RSS ||| 2023/11/30 18:00 UTC</title>
+  <description>Set up an RSS feed of this <link>https://lordcatiii.github.io/blabberings/RSS.xml</link></description>
+  </item>
     <item>
       <title>Discord Being Weird ||| 2023/11/14 21:15 UTC</title>
       <description>Discord timestamps + hyperlinks + other text formatting = cursed</description>
